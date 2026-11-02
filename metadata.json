@@ -1,0 +1,6 @@
+{
+  "name": "Farmers Hub",
+  "description": "Complete agricultural management and marketplace platform connecting farmers, buyers, suppliers, and agricultural experts with real weather analytics, farm records, and direct trading.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
